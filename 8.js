@@ -7,3 +7,4 @@ map.set(654, "number");
 for (let [key, value] of map) {
   console.log(`Ключ - ${key}, Значение - ${value}`);
 }
+ 
